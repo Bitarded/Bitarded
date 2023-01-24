@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://t.me/bitarrded" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="" height="40" width="55" /></a>
 <a href="https://vk.com/bitarded" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/vk.svg" alt="" height="40" width="40" /></a>
-<a href="instagram.com/bitarrded" target="blank"><img align="center" 
+<a href="https://instagram.com/bitarrded" target="blank"><img align="center" 
 src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" alt="daniilshat" height="60" width="60" /></a>
 <a href="mailto:xstrm67@gmail.com" target="blank"><img align="center" 
 src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="daniilshat" height="50" width="50" /></a>
