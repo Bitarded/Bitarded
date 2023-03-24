@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="css3" width="100" height="80"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  <img src="https://d33wubrfki0l68.cloudfront.net/749bb4ea068facee8b51b34a7647276cc5c3bce4/0039b/language-logos/java.svg" alt="css3" width="100" height="80"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 </p>
 
 ### Connect with me:
